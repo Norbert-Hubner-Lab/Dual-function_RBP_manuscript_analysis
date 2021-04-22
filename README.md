@@ -5,7 +5,7 @@
 
 https://www.biorxiv.org/content/10.1101/2021.04.13.439465v1
 
-This repository contains all the pre- and post-processing analysis scripts.
+This repository contains all the pre-processing scripts.
 
 
 
